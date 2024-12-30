@@ -1,4 +1,7 @@
 # fix-Request-Timeout-Error-on-cpanel
+
+*Put The Code On Top Of The File (First Line)*
+
 A simple line of code that fixes "Request Timeout Error" on cPanel
 
 ### Problem:
